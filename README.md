@@ -21,10 +21,10 @@ A Java console application to manage a book library, built as part of a Java OOP
 4. Use the console menu to interact with the library
 
 ## Project Structure
-'''
+```
 src/
 └── library/
     ├── Book.java       → Book model with attributes and getters
     ├── Library.java    → Core logic — add, remove, search, CSV I/O
     └── Main.java       → Entry point with interactive console menu
-    '''
+```    
