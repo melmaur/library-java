@@ -20,8 +20,7 @@ This project was developed following the **Scrum framework**:
 - Daily standup log maintained throughout development
 - Sprint concluded with a Review and Retrospective
 
-> Developer holds a Professional Scrum Master I (PSM I) 
-> certification issued by Scrum.org
+> Junior Developer holds a Professional Scrum Master I (PSM I) certification issued by Scrum.org in Fall 2025
 
 ## How to Run
 1. Clone the repository
