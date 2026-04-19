@@ -15,7 +15,7 @@ A Java console application to manage a book library, built as part of a Java OOP
 
 ## How to Run
 1. Clone the repository
-   git clone https://github.com/yourusername/library-java
+   git clone https://github.com/melmaur/library-java
 2. Open the project in IntelliJ IDEA
 3. Run Main.java
 4. Use the console menu to interact with the library
