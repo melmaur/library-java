@@ -13,6 +13,16 @@ A Java console application to manage a book library, built as part of a Java OOP
 - IntelliJ IDEA
 - Git & GitHub
 
+## Agile Process
+This project was developed following the **Scrum framework**:
+- Work organized in a Sprint with a defined Sprint Goal
+- User stories tracked in the Product Backlog
+- Daily standup log maintained throughout development
+- Sprint concluded with a Review and Retrospective
+
+> Developer holds a Professional Scrum Master I (PSM I) 
+> certification issued by Scrum.org
+
 ## How to Run
 1. Clone the repository
    git clone https://github.com/melmaur/library-java
