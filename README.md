@@ -9,7 +9,7 @@ A Java console application to manage a book library, built as part of a Java OOP
 - Persistent storage via CSV file
 
 ## Technologies
-- Java 24
+- Java 21
 - IntelliJ IDEA
 - Git & GitHub
 
